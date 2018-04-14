@@ -1,4 +1,4 @@
-#stringformat.js 使用
+// stringformat.js 使用
 var str="我是{name},年龄{age}";
 var s=str.format({name:"lily",age:22});
 console.log(s);
